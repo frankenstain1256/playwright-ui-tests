@@ -17,6 +17,6 @@ It has the following structure:
 5) folder 'test-results' that contains files (screenshots) generated during tests execution;
 6) this readme file.
 
-To run this project you need to have all dependencies preinstalled (Node.JS, Playwright with TypeScript)
+To run this project you need to have all dependencies preinstalled (Node.JS, Playwright with TypeScript).
 
 Test task was performed on 19 April 2026.
