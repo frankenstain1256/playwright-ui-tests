@@ -1,2 +1,2 @@
 # playwright-ui-tests
-UI automation test task
+QA automation test task
